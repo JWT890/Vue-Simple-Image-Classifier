@@ -1,0 +1,2 @@
+This is a simple Image Classifier that takes a file as input and determines if the input picture is either a dog or a cat.
+Includes a math calculation that flips between dog or cat 50/50
