@@ -1,1 +1,1 @@
-# AI-project
+# Vue Simple Image Classifier
